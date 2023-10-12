@@ -1,0 +1,4 @@
+
+
+class InvalidFormatException(BaseException):
+    pass
